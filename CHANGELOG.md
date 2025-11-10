@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.31.0-37-vars](https://github.com/Rat-OS/fluidd/compare/v1.31.0-37-vars...v1.31.0-37) (2025-11-10)
+
+### Bug Fixes
+
+* Cherry-pick spoolman save_variables fix.
+
 ## [1.31.0-37](https://github.com/Rat-OS/fluidd/compare/v1.31.0-36...v1.31.0-37) (2024-09-18)
 
 
